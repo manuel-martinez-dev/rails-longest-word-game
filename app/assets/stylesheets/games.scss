@@ -1,6 +1,10 @@
 // Place all the styles related to the games controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+h1 {
+  font-family: 'Wallpoet', cursive;
+  font-weight: bolder;
+}
 
 ul {
   list-style: none;
@@ -13,6 +17,7 @@ ul li {
   box-shadow: 3px 3px #888888;
   color: #ffffff;
   display: inline;
+  font-family: 'Wallpoet', cursive;
   font-weight: 20px;
   margin-right: 15px;
   padding: 10px;
